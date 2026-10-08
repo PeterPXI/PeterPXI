@@ -30,7 +30,7 @@ My main focus is **Full-Stack Web Development**, while continuously exploring **
 
 I learn by building — from small experiments to complete applications, APIs, automation systems, and AI-powered solutions.
 
-```text
+text
 💡 Build → ⚙️ Experiment → 🧠 Learn → 🚀 Improve
 
 🔭 Currently Building
@@ -190,3 +190,4 @@ Code → Build → Break → Debug → Learn → Repeat
 ⭐ Thanks for visiting my profile!
 Feel free to explore my repositories, follow my journey, and build something great. 🚀
 </div>
+```
