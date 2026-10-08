@@ -1,97 +1,192 @@
-# 👋 Hi, I'm Peter Youssef
+<!-- ========================= HEADER ========================= -->
 
-### 💻 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner
+<div align="center">
 
-I'm a student developer passionate about building real-world applications and turning ideas into working products.
+# 👋 Hey, I'm Peter Youssef
 
-I enjoy working across the stack — from designing interfaces to building APIs, databases, and AI-powered solutions.
+### 💻 Full-Stack Developer · 🤖 AI Enthusiast · 🔐 Cybersecurity Learner
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+software+solutions;Full-Stack+Web+Developer;Exploring+AI+%26+Computer+Vision;Cybersecurity+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
 
-## 💫 About Me
+<br>
 
-🔭 Currently building **Full-Stack & AI-powered projects**
+[![GitHub](https://img.shields.io/badge/GitHub-PeterPXI-181717?style=for-the-badge&logo=github)](https://github.com/PeterPXI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Youssef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-youssef-a11231364/)
+[![YouTube](https://img.shields.io/badge/YouTube-Peter%20Profix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@peter.profix)
 
-🌱 Currently learning **Backend Development, AI, Computer Vision & Cybersecurity**
+![Profile Views](https://komarev.com/ghpvc/?username=PeterPXI&style=for-the-badge&color=58A6FF)
 
-👯 Open to collaborating on **Open Source, Web & AI projects**
-
-💬 Ask me about **JavaScript, PHP, Node.js, Express.js, MongoDB & Web Development**
-
-⚡ Fun fact: **I love learning by building real projects 🚀**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ========================= ABOUT ========================= -->
 
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+# 🧑‍💻 About Me
 
-### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+I'm a **student developer** passionate about turning ideas into real-world software products.
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+My main focus is **Full-Stack Web Development**, while continuously exploring **Artificial Intelligence, Computer Vision, and Cybersecurity**.
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+I learn by building — from small experiments to complete applications, APIs, automation systems, and AI-powered solutions.
 
----
+```text
+💡 Build → ⚙️ Experiment → 🧠 Learn → 🚀 Improve
 
-## 🚀 What I'm Interested In
+🔭 Currently Building
+Full-Stack applications, AI-powered tools, and computer vision projects.
+🌱 Currently Learning
+Advanced Backend Development, TypeScript, AI, Computer Vision, and Cybersecurity.
+🤝 Open To
+Collaborating on Open Source, Web Development, AI, SaaS, and Cybersecurity projects.
+💬 Ask Me About
+JavaScript, PHP, Node.js, Express.js, MongoDB, MySQL, Git/GitHub, and Web Development.
+⚡ Fun Fact
+I don't just learn technologies — I try to build something with them. 🚀
+⚙️ Tech Stack
+💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
+</p>
 
-- 🌐 Full-Stack Web Development
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🔐 Cybersecurity
-- ☁️ Cloud & Deployment
-- 🧠 Building useful software products
+🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
 
----
+🛠️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
 
-## 📊 GitHub Stats
+🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=PeterPXI&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+🤖 AI & Computer Vision
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=PeterPXI&theme=dark&hide_border=true)
+Interested in:
+Machine Learning · Computer Vision · LLMs · AI APIs · Object Detection
+🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,docker" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PeterPXI&theme=dark&hide_border=true&layout=compact)
+🧠 Areas of Interest
+<table>
+<tr>
+<td align="center" width="180">
 
----
+🌐
+Web Development
+</td>
 
-## 🏆 GitHub Trophies
+<td align="center" width="180">
 
-![](https://github-profile-trophy.vercel.app/?username=PeterPXI&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+🤖
+Artificial Intelligence
+</td>
 
----
+<td align="center" width="180">
 
-## 🌐 Connect With Me
+👁️
+Computer Vision
+</td>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/peter.youssef.149132)
+<td align="center" width="180">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-youssef-a11231364/)
+🔐
+Cybersecurity
+</td>
+</tr>
+</table>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@peter.profix)
+🚀 Featured Projects
+🛡️ AI-Powered CCTV Analysis
+Computer vision system designed to analyze CCTV footage and detect suspicious activities using object detection, tracking, and event-based logic.
+Tech: Python · OpenCV · YOLO · ByteTrack
+💾 DevSave
+A smart developer-focused platform designed around code analysis and developer productivity.
+Tech: JavaScript · Node.js · Express · MongoDB
+🧠 AI Business Builder
+An AI-powered concept focused on helping users transform ideas into structured business solutions.
+Tech: JavaScript · APIs · AI
+🛒 Marketplace Projects
+Building practical marketplace and e-commerce concepts while exploring scalable backend architecture and real-world product development.
+Tech: JavaScript · Node.js · Express · MongoDB
+📊 GitHub Analytics
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PeterPXI&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
 
-## 📈 Profile Views
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPXI&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=PeterPXI&style=for-the-badge&color=1)
+</div>
 
----
 
-⭐ **Feel free to explore my repositories and connect with me!**
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=PeterPXI&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+🏆 GitHub Trophies
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PeterPXI&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+📈 Contribution Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterPXI&theme=github-compact&hide_border=true" />
+
+</div>
+
+🌐 Connect With Me
+<div align="center">
+
+<a href="https://www.facebook.com/peter.youssef.149132">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/peter-youssef-a11231364/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@peter.profix">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:B.B.B.202112345@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+💭 Developer Mindset
+<div align="center">
+
+"Don't just learn technology. Build with it."
+
+
+Code → Build → Break → Debug → Learn → Repeat
+</div>
+
+🐍 Contribution Snake
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PeterPXI/PeterPXI/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories, follow my journey, and build something great. 🚀
+</div>
